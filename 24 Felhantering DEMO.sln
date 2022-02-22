@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Hantering av undantag", "01 Hantering av undantag\01 Hantering av undantag.csproj", "{596A09DA-30DF-40E3-BEFC-3E38963C4EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Egenskaper hos undantag", "02 Egenskaper hos undantag\02 Egenskaper hos undantag.csproj", "{CA26AC7C-AB9D-4DB8-BC29-09D5C889E188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Kasta undantag", "05 Kasta undantag\05 Kasta undantag.csproj", "{EF8D928D-E9C2-4B49-870D-D0E1FBD27DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Try-finally", "06 Try-finally\06 Try-finally.csproj", "{0350B6CE-4D90-471A-95CC-95A9A4BCA81E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Övning1", "03 Övning1\03 Övning1.csproj", "{640336E6-CC28-4D67-B3BB-5184899BB624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Övning 2", "04 Övning 2\04 Övning 2.csproj", "{9A83D849-2298-4F37-9064-284D78C11917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596A09DA-30DF-40E3-BEFC-3E38963C4EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596A09DA-30DF-40E3-BEFC-3E38963C4EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596A09DA-30DF-40E3-BEFC-3E38963C4EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596A09DA-30DF-40E3-BEFC-3E38963C4EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA26AC7C-AB9D-4DB8-BC29-09D5C889E188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA26AC7C-AB9D-4DB8-BC29-09D5C889E188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA26AC7C-AB9D-4DB8-BC29-09D5C889E188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA26AC7C-AB9D-4DB8-BC29-09D5C889E188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8D928D-E9C2-4B49-870D-D0E1FBD27DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8D928D-E9C2-4B49-870D-D0E1FBD27DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8D928D-E9C2-4B49-870D-D0E1FBD27DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8D928D-E9C2-4B49-870D-D0E1FBD27DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0350B6CE-4D90-471A-95CC-95A9A4BCA81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0350B6CE-4D90-471A-95CC-95A9A4BCA81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0350B6CE-4D90-471A-95CC-95A9A4BCA81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0350B6CE-4D90-471A-95CC-95A9A4BCA81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640336E6-CC28-4D67-B3BB-5184899BB624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640336E6-CC28-4D67-B3BB-5184899BB624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640336E6-CC28-4D67-B3BB-5184899BB624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640336E6-CC28-4D67-B3BB-5184899BB624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A83D849-2298-4F37-9064-284D78C11917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A83D849-2298-4F37-9064-284D78C11917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A83D849-2298-4F37-9064-284D78C11917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A83D849-2298-4F37-9064-284D78C11917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF252854-B9D9-4DF0-AC56-8697BB716107}
+	EndGlobalSection
+EndGlobal
